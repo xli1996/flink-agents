@@ -33,6 +33,7 @@ under the License.
     <modules>
         <module>azureai</module>
         <module>ollama</module>
+        <module>openai</module>
     </modules>
 
 </project>
